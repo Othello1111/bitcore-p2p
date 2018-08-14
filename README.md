@@ -1,10 +1,8 @@
-<img src="http://bitcore.io/css/images/bitcore-p2p.svg" alt="bitcore payment protocol" height="35" width="102">
-
 Bcore P2P
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p)
-[![Build Status](https://img.shields.io/travis/bitpay/bitcore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-p2p)
+[![Build Status](https://travis-ci.com/bitcoin-cored/bitcore-p2p.svg?branch=master)](https://travis-ci.com/bitcoin-cored/bitcore-p2p))
 [![Coverage Status](https://img.shields.io/coveralls/bitpay/bitcore-p2p.svg?style=flat-square)](https://coveralls.io/r/bitpay/bitcore-p2p?branch=master)
 
 `bitcore-p2p` adds [Bitcoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) support for Bitcore.
