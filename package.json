@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-p2p-cash",
+  "name": "bcore-p2p",
   "version": "1.2.1",
   "description": "Interface to the bitcoin P2P network for bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -52,21 +52,21 @@
     }
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore"
+    "bitcoin core",
+    "bcore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-p2p.git"
+    "url": "https://github.com/bitcoin-cored/bitcore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib-cash": "^0.17.0",
+    "bcore-lib": "bitcoin-cored/bitcore-lib#master",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
+    "bcore-build": "git://github.com/bitcoin-cored/bitcore-build.git",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
