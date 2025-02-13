@@ -63,7 +63,7 @@
     "bcore-lib": "bitcoin-cored/bitcore-lib#master",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
-    "socks5-client": "^0.3.6"
+    "socks5-client": "^1.2.8"
   },
   "devDependencies": {
     "bcore-build": "git://github.com/bitcoin-cored/bitcore-build.git",
